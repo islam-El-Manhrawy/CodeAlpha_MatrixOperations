@@ -1,3 +1,4 @@
+<img width="1280" height="744" alt="ScreenRecording2026-05-23182949-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4a061221-23c4-4e09-97cb-77849d262983" />
 # Matrix Operations - C Language
 
 A professional C-based program designed to perform fundamental matrix operations.This project was developed as part of the CodeAlpha Internship to demonstrate the use of 2D arrays, loops, and modular programming in C.
