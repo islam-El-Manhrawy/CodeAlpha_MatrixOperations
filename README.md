@@ -1,6 +1,7 @@
 # Matrix Operations - C Language
 
-A professional C-based program designed to perform fundamental matrix operations. This project was developed as part of the CodeAlpha Internship to demonstrate the use of 2D arrays, loops, and modular programming in C.
+A professional C-based program designed to perform fundamental matrix operations.
+This project was developed as part of the CodeAlpha Internship to demonstrate the use of 2D arrays, loops, and modular programming in C.
 
 ## Features
 
